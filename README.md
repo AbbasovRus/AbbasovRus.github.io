@@ -1,2 +1,6 @@
+
+
 # AbbasovRus.github.io
-Мой первый опубликованный сайт
+Мои домашки
+
+[Урок 12](https://abbasovrus.github.io/lesson_12/ "Моя готовая домашка")
